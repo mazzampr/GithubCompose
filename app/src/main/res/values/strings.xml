@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GithubCompose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="search_user">Search Github User</string>
+    <string name="favorite_users">Favorite Users</string>
+    <string name="list_is_empty">Data is Empty!</string>
+    <string name="full_name">Moh. Azzam Priyanto</string>
+    <string name="email_bangkit">moh.azam121@gmail.com</string>
+    <string name="job_title">Bangkit 2023 Batch 2 Cohort</string>
+</resources>
